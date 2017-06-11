@@ -1,0 +1,36 @@
+{
+  "author": "saberd <mail@gsaberd.com> (http://saberd.github.io)",
+  "name": "xbox-controller-360",
+  "description": "Xbox controller for node",
+  "version": "0.8.0",
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "repository": {
+    "type": "",
+    "url": "https://github.com/SaberD/xbox-controller-360"
+  },
+  "homepage": "https://github.com/SaberD/xbox-controller-360",
+  "keywords": [
+    "xbox",
+    "controller",
+    "gaming"
+  ],
+  "bugs": {
+    "url": "https://github.com/SaberD/xbox-controller-360/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "main": "",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": ""
+  }
+}
